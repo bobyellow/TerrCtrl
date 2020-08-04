@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/plugins/Territorial_Control" >
-        <file>icon.png</file>
-    </qresource>
-</RCC>
